@@ -1,8 +1,11 @@
 # Anubhav-Kumar-Singh
+![A1](https://github.com/user-attachments/assets/4eb22d48-b670-4868-8f77-c360695be550)
+
 
 # Personal Information :-
 Name : Anubhav Kumar Singh 
 Final Year Student 
+DOB : 21/10/2004
 BTech : CSE (Cybersecurity & Privacy)
 DIT University, Dehradun 
 7.12* CGPA
