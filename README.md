@@ -31,6 +31,7 @@ I’m Anubhav Kumar Singh , a passionate and self-driven final-year Computer Sci
 * CSS
 * BOOTSTRAP
 * DBMS
+* PHP
 * JS
 * REACT
 * C Programming(Basics)
