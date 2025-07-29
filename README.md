@@ -23,7 +23,7 @@ DIT University, Dehradun
 # Aspiring Software Developer | Tech Enthusiast | Problem Solver | Good Learner
 
 # About Me : 
-I’m Anubhav Kumar Singh , a passionate and self-driven final-year Computer Science student with a love for clean code, efficient algorithms, and innovative tech solutions. I enjoy building projects that make a difference and solving real-world problems through development and design.
+I am Anubhav Kumar Singh , a dedicated and mission-driven BTech Student in CSE. I have a solid background in programming with different skills. My skills match well with software development , problem solving and innovative technology-based projects. I look forward to joining a dynamic organization where i can utilize my abilities , learn from practical problems and enhance my professional growth. My goal is to become a Technology Professional while making significant contributions to the success of the organization through incessant learning , teamwork , and hard work. 
 
 # Skills :
 * Java Programming
