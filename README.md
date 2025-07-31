@@ -40,7 +40,11 @@ I am Anubhav Kumar Singh , a dedicated and mission-driven BTech Student in CSE. 
 # Project :
 * HOME AWAY : A web application for online PGs in different cities. Build with HTML, CSS & BOOTSTRAP for FrontEnd, and Using React , JS and DBMS for BackEnd.
   Front End Web Application : Home Away =>  https://darkeden052.github.io/Home-Away/
-* Portfolio Website: 
+*  Chatter App| PROJECT 
+▪ Key Skills: Java Swing, JDBC, Socket Programming  
+▪ Using Java Package (GUI) build and design a chat application, using 
+  Framework and Package of Java and Eclipse 
+* Portfolio Website:
 
 
 # Certificates :
